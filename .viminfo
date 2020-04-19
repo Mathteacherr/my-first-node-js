@@ -1,0 +1,217 @@
+# この viminfo ファイルは Vim 8.0 によって生成されました.
+# 変更する際には十分注意してください!
+
+# Viminfo version
+|1,4
+
+# このファイルが書かれた時の 'encoding' の値
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 最後の 検索パターン:
+~MSle0~/3.1
+
+# コマンドライン 項目の履歴 (新しいものから古いものへ):
+:wq
+|2,0,1587207755,,"wq"
+:q
+|2,0,1587111461,,"q"
+:w
+|2,0,1587111433,,"w"
+
+# 検索文字列 項目の履歴 (新しいものから古いものへ):
+?/3.1
+|2,1,1587112652,47,"3.1"
+?/2.6
+|2,1,1587112523,47,"2.6"
+
+# 式 項目の履歴 (新しいものから古いものへ):
+
+# 入力行 項目の履歴 (新しいものから古いものへ):
+
+# デバッグ行 項目の履歴 (新しいものから古いものへ):
+
+# レジスタ:
+""1	LINE	0
+	     c) 知恵とは学ぶもの、
+|3,1,1,1,1,0,1587112817,"     c) 知恵とは学ぶもの、"
+"2	LINE	0
+	     c) 知恵とは学ぶもの、
+|3,0,2,1,1,0,1587112816,"     c) 知恵とは学ぶもの、"
+"3	LINE	0
+	     c) 知恵とは学ぶもの、
+|3,0,3,1,1,0,1587112814,"     c) 知恵とは学ぶもの、"
+"4	LINE	0
+	     c) 知恵とは学ぶもの、
+|3,0,4,1,1,0,1587112801,"     c) 知恵とは学ぶもの、"
+"5	LINE	0
+	     d) 貴方も学ぶことができる?
+|3,0,5,1,1,0,1587112798,"     d) 貴方も学ぶことができる?"
+"6	LINE	0
+	     d) 貴方も学ぶことができる?
+|3,0,6,1,1,0,1587112793,"     d) 貴方も学ぶことができる?"
+"7	LINE	0
+	     d) 貴方も学ぶことができる?
+|3,0,7,1,1,0,1587112783,"     d) 貴方も学ぶことができる?"
+"8	LINE	0
+	     a) バラは赤い、
+|3,0,8,1,1,0,1587112758,"     a) バラは赤い、"
+"9	LINE	0
+	     a) バラは赤い、
+|3,0,9,1,1,0,1587112740,"     a) バラは赤い、"
+"q	CHAR	0
+	�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kdgggg�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku
+|3,0,26,0,1,0,1587111334,"�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kdgggg�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�kd�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku�ku"
+"-	CHAR	0
+	行
+|3,0,36,0,1,0,1587112029,"行"
+
+# ファイルマーク:
+'0  5  39  ~/workspace/git-study/wise.md
+|4,48,5,39,1587207755,"~/workspace/git-study/wise.md"
+'1  23  57  /tmp/crontab.CAZekp/crontab
+|4,49,23,57,1587185942,"/tmp/crontab.CAZekp/crontab"
+'2  384  5  /tmp/tutorvs6Sza
+|4,50,384,5,1587112841,"/tmp/tutorvs6Sza"
+'3  141  0  /tmp/tutor6RqM66
+|4,51,141,0,1587112435,"/tmp/tutor6RqM66"
+'4  1  0  ~/workspace/vim-study/test.txt
+|4,52,1,0,1587111461,"~/workspace/vim-study/test.txt"
+'5  1  0  ~/workspace/.profile
+|4,53,1,0,1587111347,"~/workspace/.profile"
+
+# ジャンプリスト (新しいものが先):
+-'  5  39  ~/workspace/git-study/wise.md
+|4,39,5,39,1587207755,"~/workspace/git-study/wise.md"
+-'  1  0  ~/workspace/git-study/wise.md
+|4,39,1,0,1587207724,"~/workspace/git-study/wise.md"
+-'  23  57  /tmp/crontab.CAZekp/crontab
+|4,39,23,57,1587185942,"/tmp/crontab.CAZekp/crontab"
+-'  23  57  /tmp/crontab.CAZekp/crontab
+|4,39,23,57,1587185942,"/tmp/crontab.CAZekp/crontab"
+-'  1  0  /tmp/crontab.CAZekp/crontab
+|4,39,1,0,1587185830,"/tmp/crontab.CAZekp/crontab"
+-'  1  0  /tmp/crontab.CAZekp/crontab
+|4,39,1,0,1587185830,"/tmp/crontab.CAZekp/crontab"
+-'  384  5  /tmp/tutorvs6Sza
+|4,39,384,5,1587112841,"/tmp/tutorvs6Sza"
+-'  384  5  /tmp/tutorvs6Sza
+|4,39,384,5,1587112841,"/tmp/tutorvs6Sza"
+-'  384  5  /tmp/tutorvs6Sza
+|4,39,384,5,1587112841,"/tmp/tutorvs6Sza"
+-'  384  5  /tmp/tutorvs6Sza
+|4,39,384,5,1587112841,"/tmp/tutorvs6Sza"
+-'  383  5  /tmp/tutorvs6Sza
+|4,39,383,5,1587112766,"/tmp/tutorvs6Sza"
+-'  383  5  /tmp/tutorvs6Sza
+|4,39,383,5,1587112766,"/tmp/tutorvs6Sza"
+-'  383  5  /tmp/tutorvs6Sza
+|4,39,383,5,1587112766,"/tmp/tutorvs6Sza"
+-'  383  5  /tmp/tutorvs6Sza
+|4,39,383,5,1587112766,"/tmp/tutorvs6Sza"
+-'  332  0  /tmp/tutorvs6Sza
+|4,39,332,0,1587112652,"/tmp/tutorvs6Sza"
+-'  332  0  /tmp/tutorvs6Sza
+|4,39,332,0,1587112652,"/tmp/tutorvs6Sza"
+-'  332  0  /tmp/tutorvs6Sza
+|4,39,332,0,1587112652,"/tmp/tutorvs6Sza"
+-'  332  0  /tmp/tutorvs6Sza
+|4,39,332,0,1587112652,"/tmp/tutorvs6Sza"
+-'  1  0  /tmp/tutorvs6Sza
+|4,39,1,0,1587112523,"/tmp/tutorvs6Sza"
+-'  1  0  /tmp/tutorvs6Sza
+|4,39,1,0,1587112523,"/tmp/tutorvs6Sza"
+-'  1  0  /tmp/tutorvs6Sza
+|4,39,1,0,1587112523,"/tmp/tutorvs6Sza"
+-'  1  0  /tmp/tutorvs6Sza
+|4,39,1,0,1587112523,"/tmp/tutorvs6Sza"
+-'  141  0  /tmp/tutor6RqM66
+|4,39,141,0,1587112435,"/tmp/tutor6RqM66"
+-'  141  0  /tmp/tutor6RqM66
+|4,39,141,0,1587112435,"/tmp/tutor6RqM66"
+-'  141  0  /tmp/tutor6RqM66
+|4,39,141,0,1587112435,"/tmp/tutor6RqM66"
+-'  141  0  /tmp/tutor6RqM66
+|4,39,141,0,1587112435,"/tmp/tutor6RqM66"
+-'  1  0  /tmp/tutor6RqM66
+|4,39,1,0,1587111632,"/tmp/tutor6RqM66"
+-'  1  0  /tmp/tutor6RqM66
+|4,39,1,0,1587111632,"/tmp/tutor6RqM66"
+-'  1  0  /tmp/tutor6RqM66
+|4,39,1,0,1587111632,"/tmp/tutor6RqM66"
+-'  1  0  /tmp/tutor6RqM66
+|4,39,1,0,1587111632,"/tmp/tutor6RqM66"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587111461,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587111461,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587111461,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/vim-study/test.txt
+|4,39,1,0,1587111461,"~/workspace/vim-study/test.txt"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+-'  1  0  ~/workspace/.profile
+|4,39,1,0,1587111347,"~/workspace/.profile"
+
+# ファイル内マークの履歴 (新しいものから古いもの):
+
+> ~/workspace/git-study/wise.md
+	*	1587207751	0
+	"	5	39
+	^	5	42
+	.	5	39
+	+	5	39
+
+> /tmp/crontab.CAZekp/crontab
+	*	1587185939	0
+	"	23	57
+	^	23	58
+	.	23	58
+	+	23	58
+
+> /tmp/tutorvs6Sza
+	*	1587112840	0
+	"	384	5
+	.	384	0
+	+	316	0
+	+	385	0
+	+	383	0
+	+	382	0
+	+	383	0
+	+	386	0
+	+	385	0
+	+	386	0
+	+	384	0
+
+> /tmp/tutor6RqM66
+	*	1587112432	0
+	"	141	0
+	^	133	59
+	.	133	56
+	+	83	59
+	+	108	60
+	+	131	56
+	+	133	56
+
+> ~/workspace/vim-study/test.txt
+	*	1587111458	0
+	"	1	0
+
+> ~/workspace/.profile
+	*	1587111343	0
+	"	1	0
